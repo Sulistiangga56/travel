@@ -1,0 +1,4 @@
+node_modules
+.env
+app.py
+Book1.csv

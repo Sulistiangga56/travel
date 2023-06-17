@@ -1,0 +1,7 @@
+POST localhost:3000/auth/api/v1/signin 
+content-type: application/json
+
+{
+    "name": "Rafli Hada Setiawan",
+    "password": "admin123"
+}
